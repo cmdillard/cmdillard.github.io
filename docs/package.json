@@ -1,0 +1,19 @@
+{
+  "name": "vuepress-playground",
+  "version": "0.0.1",
+  "description": "Nothing to see here - just messing around",
+  "main": "index.js",
+  "authors": {
+    "name": "Chase McElroy Dillard",
+    "email": "chase.dillard@live.com"
+  },
+  "repository": "https://github.com/cmdillard/cmdillard.github.io/vuepress-playground",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
